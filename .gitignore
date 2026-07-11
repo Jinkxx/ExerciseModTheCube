@@ -1,0 +1,28 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+MemoryCaptures/
+
+# Asset meta data should stay tracked
+!/[Aa]ssets/**/*.meta
+!/[Pp]ackages/**/*.meta
+!/[Pp]rojectSettings/**/*.meta
+
+# Visual Studio / VS Code
+.vscode/
+.vs/
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+
+# OS files
+.DS_Store
+Thumbs.db
